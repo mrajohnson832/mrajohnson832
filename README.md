@@ -1,16 +1,14 @@
-## Hi there 👋
+### Anthony Johnson — Web Application Penetration Tester
 
-<!--
-**mrajohnson832/mrajohnson832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I find and document web/API vulnerabilities — with a focus on **access control**,
+**authentication**, and **business-logic** flaws — and I write the clean, reproducible
+reports that make a finding actionable.
 
-Here are some ideas to get you started:
+- 🔎 **Portfolio:** methodology write-ups + projects → [web-security-portfolio](https://github.com/mrajohnson832/web-security-portfolio)
+- 🛠️ Built **ajsecx**, a local RAG-grounded pentest assistant (playbooks, tool orchestration,
+  report drafting) — engineered so the LLM advises and drafts but never "finds" bugs.
+- 📜 **CompTIA PenTest+** · working toward Burp Suite Certified Practitioner.
+- 🐛 Bug bounty as **@ajsecx** on HackerOne.
+- 🎯 Open to remote AppSec / web pentest roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Everything I publish targets deliberately-vulnerable labs or my own home lab.*
