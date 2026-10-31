@@ -14,5 +14,5 @@ reports that make a finding actionable.
 
 *Everything I publish targets deliberately-vulnerable labs or my own home lab.*
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/anthony-johnson-767813256/) | [Credly](https://www.credly.com/users/ajohnson832/badges/credly)
-**Contact me:** [Email](mr.ajohnson832@gmail.com)
+**Find me:** [LinkedIn](https://www.linkedin.com/in/anthony-johnson-767813256/) | [Credly](https://www.credly.com/users/ajohnson832/badges/credly)  
+**Contact me:** [Email](mailto:mr.ajohnson832@gmail.com)
