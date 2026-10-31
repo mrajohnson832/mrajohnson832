@@ -1,4 +1,4 @@
-### Anthony Johnson - Web Application Penetration Tester
+### Anthony Johnson | Web Application Penetration Tester
 
 I find and document web/API vulnerabilities with a focus on **access control**,
 **authentication**, and **business-logic** flaws, and I write the clean, reproducible
