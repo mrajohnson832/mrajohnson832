@@ -9,7 +9,6 @@ reports that make a finding actionable.
 - 🛠️ **Designed and directed ajsecx**, a local RAG-grounded pentest assistant (playbooks, tool
   orchestration, report drafting), scoped so the LLM advises and drafts but never "finds" bugs → [ajsecx](https://github.com/mrajohnson832/ajsecx)
 - 📜 **CompTIA PenTest+**, working toward Burp Suite Certified Practitioner.
-- 🐛 Bug bounty as **@ajsecx** on HackerOne.
 - 🎯 Open to remote AppSec / web pentest roles.
 
 *Everything I publish targets deliberately-vulnerable labs or my own home lab.*
