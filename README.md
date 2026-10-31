@@ -1,7 +1,7 @@
 ### Anthony Johnson — Web Application Penetration Tester
 
-I find and document web/API vulnerabilities — with a focus on **access control**,
-**authentication**, and **business-logic** flaws — and I write the clean, reproducible
+I find and document web/API vulnerabilities with a focus on **access control**,
+**authentication**, and **business-logic** flaws, and I write the clean, reproducible
 reports that make a finding actionable.
 
 - 🔎 **Portfolio:** methodology write-ups + projects → [web-security-portfolio](https://github.com/mrajohnson832/web-security-portfolio)
