@@ -1,15 +1,28 @@
-### Anthony Johnson | Web Application Penetration Tester
+### Anthony Johnson | Infrastructure & Security Engineer
 
-I find and document web/API vulnerabilities with a focus on **access control**,
-**authentication**, and **business-logic** flaws, and I write the clean, reproducible
-reports that make a finding actionable.
+I build and secure infrastructure end to end: I harden Active Directory to CIS/NIST baselines,
+engineer SIEM detections, and validate both by attacking them. An infrastructure and IAM
+background, specializing into offensive security.
 
-- 🔎 **Portfolio:** methodology write-ups + projects → [web-security-portfolio](https://github.com/mrajohnson832/web-security-portfolio)
-- 🧪 **Home lab:** build → harden → attack → detect a Windows AD environment → [windows-domain-lab](https://github.com/mrajohnson832/windows-domain-lab)
-- 🛠️ **Designed and directed ajsecx**, a local RAG-grounded pentest assistant (playbooks, tool
-  orchestration, report drafting), scoped so the LLM advises and drafts but never "finds" bugs → [ajsecx](https://github.com/mrajohnson832/ajsecx)
-- 📜 **CompTIA PenTest+**, working toward Burp Suite Certified Practitioner.
-- 🎯 Open to remote AppSec / web pentest roles.
+**My work, three ways:**
+
+- 🧱 **Harden:** AD design, GPO, and hardening to CIS/NIST baselines (Microsoft Security
+  Compliance Toolkit), least-privilege IAM, and backups.
+  → [windows-domain-lab](https://github.com/mrajohnson832/windows-domain-lab)
+- 🛰️ **Detect:** Wazuh SIEM with agents, tuned rules, and dashboards for real AD attacks
+  (Kerberoasting, LLMNR poisoning, DCSync). Same lab as above.
+- 🗡️ **Attack:** web/API penetration-testing methodology (access control, authentication,
+  business logic), plus AD attack chains run against my own lab.
+  → [web-security-portfolio](https://github.com/mrajohnson832/web-security-portfolio)
+
+- 🛠️ Built **ajsecx**, a local, RAG-grounded pentest assistant (playbooks, tool orchestration,
+  report drafting), engineered so the LLM advises and drafts but never "finds" the bugs.
+  → [ajsecx (design case study)](https://github.com/mrajohnson832/ajsecx)
+- 📜 **Certifications:** ISACA **CMMC Certified Professional (CCP)** · ISC2 **SSCP** · CompTIA
+  **CySA+ · PenTest+ · Security+ · Network+** (working toward **Burp Suite Certified Practitioner**).
+- 🔐 **Security eligibility:** DoD Tier 3 background investigation, adjudicated Nov 2026.
+- 🎯 Open to remote roles across **security engineering, detection/SOC, infrastructure, compliance
+  (CMMC/NIST), and AppSec**.
 
 *Everything I publish targets deliberately-vulnerable labs or my own home lab.*
 
