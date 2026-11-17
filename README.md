@@ -19,7 +19,7 @@ background, specializing into offensive security.
   report drafting), engineered so the LLM advises and drafts but never "finds" the bugs.
   → [ajsecx (design case study)](https://github.com/mrajohnson832/ajsecx)
 - 📜 **Certifications:** ISACA **CMMC Certified Professional (CCP)** · ISC2 **SSCP** · CompTIA
-  **CySA+ · PenTest+ · Security+ · Network+** (working toward **Burp Suite Certified Practitioner**).
+  **CySA+ · PenTest+ · Security+ · Network+** (working toward **Burp Suite Certified Practitioner** and **ISACA CCA**).
 - 🔐 **Security eligibility:** DoD Tier 3 background investigation, adjudicated Nov 2026.
 - 🎯 Open to remote roles across **security engineering, detection/SOC, infrastructure, compliance
   (CMMC/NIST), and AppSec**.
